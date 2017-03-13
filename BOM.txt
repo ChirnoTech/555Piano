@@ -1,0 +1,20 @@
+Partlist exported from sch/piano.sch at 13.03.2017 22:42:54
+
+Assembly variant: 
+
+Qty Value              Device             Parts                         
+1                      CR1220SMT          BAT                           
+1                      LED1206            LED1                          
+8                      TAC_SWITCHSMD      S1, S2, S3, S4, S5, S6, S7, S8
+1   1.1K               R-EU_R1206         R5                            
+1   1.3K               R-EU_R1206         R7                            
+1   1.5K               R-EU_R1206         R8                            
+4   1K                 R-EU_R1206         R1, R4, R9, R10               
+1   10K                PVZ3A              R12                           
+2   100nF              C-EUC1206          C1, C3                        
+1   390                R-EU_R1206         R2                            
+1   620                R-EU_R1206         R6                            
+1   910                R-EU_R1206         R3                            
+1   LMC555             IC_555-SOIC8       IC1                           
+1   SK12D07VG3         SWITCH3            SWITCH                           
+1   SMD-100030H-05052T SMD-100030H-05052T BUZZER                           
